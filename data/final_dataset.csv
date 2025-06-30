@@ -1,0 +1,42 @@
+﻿timestamp,user_id,message,response,intent,lang
+,synthetic,salut,Bonjour ! Comment puis-je vous aider ?,salutation,fr
+,synthetic,bonjour,Bonjour ! Comment puis-je vous aider ?,salutation,fr
+,synthetic,salam,Salam ! En quoi puis-je vous aider ?,salutation,fr
+,synthetic,je veux acheter un pantalon,"D'accord, quelle taille cherchez-vous ?",achat_produit,fr
+,synthetic,je cherche un pyjama,"Très bien, quelle taille souhaitez-vous ?",achat_produit,fr
+,synthetic,je veux un t-shirt,"D'accord, quelle taille souhaitez-vous ?",achat_produit,fr
+,synthetic,je veux une robe,"D'accord, quelle taille souhaitez-vous ?",achat_produit,fr
+,synthetic,merci,Avec plaisir ! 😊,merci,fr
+,synthetic,shokran,Avec plaisir ! 😊,merci,fr
+,synthetic,c'est trop cher,Nous avons d'autres modèles moins chers.,prix_demande,fr
+,synthetic,c'est un peu cher,"Je comprends, nous avons des alternatives plus économiques.",prix_demande,fr
+,synthetic,combien ça coûte,Le prix dépend du modèle. Lequel vous intéresse ?,prix_demande,fr
+,synthetic,je confirme la commande,"Parfait, pouvez-vous me donner votre nom complet ?",confirmation,fr
+,synthetic,oui je confirme,"Parfait, pouvez-vous me donner votre nom complet ?",confirmation,fr
+,synthetic,فين نوصلو,عافاك قول ليا العنوان باش نوصلو ليك,adresse_demande,fr
+,synthetic,فين ساكن,عافاك قول ليا العنوان باش نوصلو ليك,adresse_demande,fr
+,synthetic,la,"D'accord, n'hésitez pas si vous avez besoin d'autre chose.",refus,fr
+,synthetic,non merci,"D'accord, n'hésitez pas si vous avez besoin d'autre chose.",refus,fr
+,synthetic,je veux commander,"Bien sûr, dites-moi quel produit et quelle taille.",achat_produit,fr
+,synthetic,je veux un jeans,"Très bien, quelle taille souhaitez-vous ?",achat_produit,fr
+,synthetic,as-tu des boissons,"Oui, quelles boissons souhaitez-vous ?",achat_produit,fr
+,synthetic,je veux un digital product,"Bien sûr, quel produit digital vous intéresse et pour quelle durée ?",achat_produit,fr
+,synthetic,je veux un abonnement,"D'accord, quelle durée d'abonnement souhaitez-vous ?",achat_produit,fr
+2025-06-21 12:47:43,training_data,بغيت بيجاما,"✅ كاين pyjama bleu. التاي : S,M,L (بقا 10)",achat_produit,darija
+2025-06-21 12:47:43,training_data,بغيت نيتفليكس,✅ كاين abonnement netflix. الصلاحية : 30 jours,achat_produit,darija
+2025-06-21 12:47:43,training_data,brit pijama,"✅ كاين pyjama bleu. التاي : S,M,L (بقا 10)",achat_produit,darija
+2025-06-21 12:47:43,training_data,brich netflais,✅ كاين abonnement netflix. الصلاحية : 30 jours,achat_produit,darija
+2025-06-21 12:47:43,training_data,بريش بيجاما,"✅ كاين pyjama bleu. التاي : S,M,L (بقا 10)",achat_produit,darija
+2025-06-21 12:47:43,training_data,عفاك netflix,✅ كاين abonnement netflix. الصلاحية : 30 jours,achat_produit,darija
+2025-06-21 12:47:43,training_data,بيجاما زوينة,"✅ كاين pyjama bleu. التاي : S,M,L (بقا 10)",achat_produit,darija
+2025-06-21 12:47:43,training_data,سلام,👋 السلام! كيفاش نعاونك؟,salutation,darija
+2025-06-21 12:47:43,training_data,slm,👋 السلام! كيفاش نعاونك؟,salutation,darija
+2025-06-21 12:47:43,training_data,salaam,👋 السلام! كيفاش نعاونك؟,salutation,darija
+2025-06-21 12:47:43,training_data,salam alikoum,👋 السلام! كيفاش نعاونك؟,salutation,darija
+2025-06-21 12:47:43,training_data,سلام خويا,👋 السلام! كيفاش نعاونك؟,salutation,darija
+2025-06-21 12:47:43,training_data,بغيت s,🧮 شحال من وحدة؟,taille_demande,darija
+2025-06-21 12:47:43,training_data,عندك m,🧮 شحال من وحدة؟,taille_demande,darija
+2025-06-21 12:47:43,training_data,عندك اللون الكحل,🎨 اللون الأسود متوفر,couleur_demande,darija
+2025-06-21 12:47:43,training_data,choukran,😊 مرحبا!,merci,darija
+2025-06-21 12:47:43,training_data,شكرا,😊 مرحبا!,merci,darija
+2025-06-21 12:47:43,training_data,nawflis,✅ كاين abonnement netflix. الصلاحية : 30 jours,achat_produit,darija

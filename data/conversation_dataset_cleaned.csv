@@ -1,0 +1,8 @@
+datetime,user_id,message,response,intent,lang
+2025-06-20 20:24:23.796357,whatsapp:+212633420644,[audio],<bound method Message.body of <twilio.twiml.messaging_response.Message object at 0x000001F532FBCA60>>,error_transcription,unknown
+2025-06-21 02:13:36.953678,whatsapp:+212633420644,euh escutamed,❌ Merci de donner un nombre valide.,invalid_quantity,fr
+2025-06-18 20:30:45.183702,whatsapp:+212633420644,ok,❌ ما كاين حتى منتوج مطابق.,confirmation,darija
+2025-06-18 23:10:58.852455,whatsapp:+212633420644,Pyjama,"✅ كاين pyjama bleu. التاي : S,M,L",product_found,darija
+2025-06-21 00:53:08.126072,whatsapp:+212633420644,"Bridge, pyjama.",👋 Bonjour ! Que puis-je faire pour vous ?,salutation,fr|ml
+2025-06-18 23:13:34.222132,whatsapp:+212633420644,BRIT JEANS TAI-M,📝 Votre nom ?,waiting_nom,fr
+2025-06-18 23:11:26.372592,whatsapp:+212633420644,M.,🧮 Quelle quantité ?,waiting_quantite,fr

@@ -1,0 +1,104 @@
+{
+  "whatsapp:+212633420644": {
+    "messages": [
+      {
+        "from": "user",
+        "text": "Je veux pyjama"
+      },
+      {
+        "from": "bot",
+        "text": "✅ كاين pyjama bleu. التاي : S,M,L (بقا images/pyjama1.jpg)"
+      },
+      {
+        "from": "user",
+        "text": "M"
+      },
+      {
+        "from": "bot",
+        "text": "🧠 Intention détectée mais aucune réponse définie."
+      },
+      {
+        "from": "user",
+        "text": "Taille m"
+      },
+      {
+        "from": "bot",
+        "text": "🧠 Intention détectée mais aucune réponse définie."
+      },
+      {
+        "from": "user",
+        "text": "Bghit alqlawi taille m"
+      },
+      {
+        "from": "bot",
+        "text": "🧠 Intention détectée mais aucune réponse définie."
+      },
+      {
+        "from": "user",
+        "text": "Salam"
+      },
+      {
+        "from": "bot",
+        "text": "🧠 Intention détectée mais aucune réponse définie."
+      },
+      {
+        "from": "user",
+        "text": "Bonjour"
+      },
+      {
+        "from": "bot",
+        "text": "🧠 Intention détectée mais aucune réponse définie."
+      },
+      {
+        "from": "user",
+        "text": "Salam"
+      },
+      {
+        "from": "bot",
+        "text": "🧠 Intention détectée mais aucune réponse définie."
+      },
+      {
+        "from": "user",
+        "text": "Bonjour"
+      },
+      {
+        "from": "bot",
+        "text": "🧠 Intention détectée mais aucune réponse définie."
+      },
+      {
+        "from": "user",
+        "text": "Pourquoi"
+      },
+      {
+        "from": "bot",
+        "text": "🧠 Intention détectée mais aucune réponse définie."
+      },
+      {
+        "from": "user",
+        "text": "Elach"
+      },
+      {
+        "from": "bot",
+        "text": "🧠 Intention détectée mais aucune réponse définie."
+      },
+      {
+        "from": "user",
+        "text": "Pyjama"
+      },
+      {
+        "from": "bot",
+        "text": "🧠 Intention détectée mais aucune réponse définie."
+      },
+      {
+        "from": "user",
+        "text": "Pyjama"
+      },
+      {
+        "from": "bot",
+        "text": "🧠 Intention détectée mais aucune réponse définie."
+      }
+    ],
+    "last_intent": "product_found",
+    "last_response": "🧠 Intention détectée mais aucune réponse définie."
+  }
+}

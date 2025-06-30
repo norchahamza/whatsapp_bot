@@ -1,0 +1,118 @@
+message,intent,lang,source
+bonjour,greeting,fr,original
+coucou,greeting,fr,augmented
+سلام ختي,greeting,darija,augmented
+slt,greeting,fr,augmented
+salam,greeting,fr,augmented
+cc,greeting,fr,augmented
+السلام,greeting,darija,augmented
+salam alikoum,greeting,fr,augmented
+salam alaykom,greeting,fr,augmented
+سلام خويا,greeting,darija,augmented
+salut,greeting,fr,original
+khouya,greeting,fr,original
+kheti,greeting,fr,original
+je veux un pyjama,request_product,fr,original
+je cherche un pantalon,request_product,fr,original
+je voudrais une robe,request_product,fr,original
+avez-vous des t-shirts ?,request_product,fr,original
+merci,thanks,fr,original
+shokran,thanks,fr,augmented
+choukran,thanks,fr,augmented
+بارك الله فيك,thanks,darija,augmented
+الله يخليك,thanks,darija,augmented
+شكرا,thanks,darija,augmented
+super,thanks,fr,original
+c'est bon,confirmation,fr,original
+d'accord,confirmation,fr,original
+ok,confirmation,fr,original
+هاك,confirmation,darija,augmented
+d’accord,confirmation,fr,augmented
+oui,confirmation,fr,augmented
+wakha,confirmation,fr,augmented
+ماشي مشكل,confirmation,darija,augmented
+je veux commander,order,fr,original
+je veux acheter,order,fr,augmented
+بغيت نشري,order,darija,augmented
+بغيت نكوموندي,order,darija,augmented
+je veux passer une commande,order,fr,augmented
+comment ça marche ?,help,fr,original
+كيفاش نقدر نستعمل؟,help,darija,augmented
+كيفاش خدام؟,help,darija,augmented
+شنو الطريقة؟,help,darija,augmented
+كيفاش كيدير؟,help,darija,augmented
+aide moi,help,fr,original
+عاونني,help,darija,augmented
+j’ai besoin d’aide,help,fr,augmented
+ساعدني,help,darija,augmented
+عونني,help,darija,augmented
+j'ai besoin d'aide,help,fr,original
+quels produits avez-vous ?,ask_products,fr,original
+شنو عندكم من منتجات؟,ask_products,darija,augmented
+عندكوم شي حوايج؟,ask_products,darija,augmented
+شنو كتبيعو؟,ask_products,darija,augmented
+montre moi vos articles,ask_products,fr,original
+est-ce que vous avez des nouveautés ?,ask_products,fr,original
+je veux voir les tailles,ask_size,fr,original
+quelles tailles sont disponibles ?,ask_size,fr,original
+est-ce que vous livrez ?,delivery,fr,original
+كتوصلو للدار؟,delivery,darija,augmented
+كيفاش كتدير التوصيل؟,delivery,darija,augmented
+توصل؟,delivery,darija,augmented
+عندكم livraison؟,delivery,darija,augmented
+comment se passe la livraison ?,delivery,fr,original
+c’est quoi les délais ?,delivery,fr,original
+imta aywaslouni ?,delivery,fr,original
+salut,salutation,fr,auto_augmented
+bonjour,salutation,fr,auto_augmented
+salam,salutation,fr,auto_augmented
+je veux acheter un pantalon,achat_produit,fr,auto_augmented
+je cherche un pyjama,achat_produit,fr,auto_augmented
+je veux un t-shirt,achat_produit,fr,auto_augmented
+je veux une robe,achat_produit,fr,auto_augmented
+merci,merci,fr,auto_augmented
+shokran,merci,fr,auto_augmented
+c'est trop cher,prix_demande,fr,auto_augmented
+c'est un peu cher,prix_demande,fr,auto_augmented
+combien ça coûte,prix_demande,fr,auto_augmented
+je confirme la commande,confirmation,fr,auto_augmented
+oui je confirme,confirmation,fr,auto_augmented
+فين نوصلو,adresse_demande,fr,auto_augmented
+فين ساكن,adresse_demande,fr,auto_augmented
+la,refus,fr,auto_augmented
+non merci,refus,fr,auto_augmented
+je veux commander,achat_produit,fr,auto_augmented
+je veux un jeans,achat_produit,fr,auto_augmented
+as-tu des boissons,achat_produit,fr,auto_augmented
+je veux un digital product,achat_produit,fr,auto_augmented
+je veux un abonnement,achat_produit,fr,auto_augmented
+بغيت بيجاما,achat_produit,darija,auto_augmented
+بغيت نيتفليكس,achat_produit,darija,auto_augmented
+brit pijama,achat_produit,darija,auto_augmented
+brich netflais,achat_produit,darija,auto_augmented
+بريش بيجاما,achat_produit,darija,auto_augmented
+عفاك netflix,achat_produit,darija,auto_augmented
+بيجاما زوينة,achat_produit,darija,auto_augmented
+سلام,salutation,darija,auto_augmented
+slm,salutation,darija,auto_augmented
+salaam,salutation,darija,auto_augmented
+salam alikoum,salutation,darija,auto_augmented
+سلام خويا,salutation,darija,auto_augmented
+بغيت s,taille_demande,darija,auto_augmented
+عندك m,taille_demande,darija,auto_augmented
+عندك اللون الكحل,couleur_demande,darija,auto_augmented
+choukran,merci,darija,auto_augmented
+شكرا,merci,darija,auto_augmented
+nawflis,achat_produit,darija,auto_augmented
+[audio],error_transcription,unknown,auto_augmented
+euh escutamed,invalid_quantity,fr,auto_augmented
+ok,confirmation,darija,auto_augmented
+"bonjour, brice pizan.",no_product,fr,auto_augmented
+pyjama,product_found,darija,auto_augmented
+"bridge, pyjama.",salutation,fr|ml,auto_augmented
+je veux pyjama,suggest_close,darija,auto_augmented
+أعفاك بريش بيجام,suggestion,fr,auto_augmented
+pyjama.,suggestion_or_none,unknown,auto_augmented
+oui,unrecognized,fr|trained,auto_augmented
+brit jeans tai-m,waiting_nom,fr,auto_augmented
+m.,waiting_quantite,fr,auto_augmented

@@ -1,0 +1,126 @@
+datetime,user_id,message,response,intent,lang
+2025-06-16 23:18:01.787886,whatsapp:+212633420644,Pyjama.,"❌ Not found. Suggest *pyjama bleu* (sizes: S,M,L)",suggestion_or_none,unknown
+2025-06-16 23:24:48.183779,whatsapp:+212633420644,Pizze ma.,"❌ Non trouvé. On propose *pyjama bleu* (tailles: S,M,L)",suggestion_or_none,fr
+2025-06-16 23:42:26.205050,whatsapp:+212633420644,ok,"❌ Non trouvé. On propose *pyjama bleu* (tailles: S,M,L)",suggestion,fr
+2025-06-18 20:13:48.465787,whatsapp:+212633420644,Bnjour,"❌ ما لقيناهش. كنقترحو *pyjama bleu* (taille: S,M,L)",suggestion,darija
+2025-06-18 20:25:10.712060,whatsapp:+212633420644,أعفاك بريش بيجام,"❌ Non trouvé. On propose *pyjama bleu* (tailles: S,M,L)",suggestion,fr
+2025-06-18 20:30:45.183702,whatsapp:+212633420644,ok,❌ ما كاين حتى منتوج مطابق.,no_match,darija
+2025-06-18 20:38:19.295057,whatsapp:+212633420644,bonjour afak bghit pyjama,❌ Aucun produit trouvé.,no_product,fr
+2025-06-18 20:52:36.785470,whatsapp:+212633420644,سلام عافاك كاينا pyjama,❌ ما كاين حتى منتوج.,no_product,darija
+2025-06-18 21:37:01.775700,whatsapp:+212633420644,OK,❌ Aucun produit trouvé.,no_product,fr
+2025-06-18 21:38:59.903610,whatsapp:+212633420644,OUI,❌ Aucun produit trouvé.,no_product,fr
+2025-06-18 21:42:39.672622,whatsapp:+212633420644,Salam 3afak bghit pyjama,❌ ما كاين حتى منتوج. واش ممكن توضّح ليا؟,no_product,darija
+2025-06-18 21:49:40.094383,whatsapp:+212633420644,Ça donne une vraie pyjama.,❌ Aucun produit trouvé. Pouvez-vous préciser ?,no_product,fr
+2025-06-18 22:32:34.966699,whatsapp:+212633420644,"Bonjour, Brice Pizan.",❌ Aucun produit trouvé. Pouvez-vous préciser ?,no_product,fr
+2025-06-18 22:50:56.025185,whatsapp:+212633420644,je veux une pyjama,❓ Est-ce que vous cherchez *pyjama bleu* ?,suggest_close,fr
+2025-06-18 22:57:52.410264,whatsapp:+212633420644,Je veux une pyjama,❓ Est-ce que vous cherchez *pyjama bleu* ?,suggest_close,fr
+2025-06-18 23:10:50.238719,whatsapp:+212633420644,Bonjour,❌ ما كاين حتى منتوج. واش ممكن توضّح ليا؟,no_product,darija
+2025-06-18 23:10:58.852455,whatsapp:+212633420644,Pyjama,"✅ كاين pyjama bleu. التاي : S,M,L",product_found,darija
+2025-06-18 23:11:26.372592,whatsapp:+212633420644,M.,🧮 Quelle quantité ?,waiting_quantite,fr
+2025-06-18 23:13:34.222132,whatsapp:+212633420644,BRIT JEANS TAI-M,📝 Votre nom ?,waiting_nom,fr
+2025-06-20 17:48:33.770093,whatsapp:+212633420644,Salam,👋 Bonjour ! Que puis-je faire pour vous ?,salutation,fr
+2025-06-20 17:54:15.149789,whatsapp:+212633420644,Salam,👋 السلام! كيفاش نعاونك؟,salutation,darija
+2025-06-20 17:54:48.455434,whatsapp:+212633420644,Briches pyjamas.,👋 Bonjour ! Que puis-je faire pour vous ?,salutation,fr
+2025-06-20 18:02:11.168592,whatsapp:+212633420644,"En salam, bridge pijama",👋 Bonjour ! Que puis-je faire pour vous ?,salutation,fr
+2025-06-20 18:30:20.359930,whatsapp:+212633420644,"Ah fuck, brise pyjama.",👋 Bonjour ! Que puis-je faire pour vous ?,salutation,fr
+2025-06-20 19:53:00.387895,whatsapp:+212633420644,Bonjour,👋 Bonjour ! Que puis-je faire pour vous ?,salutation,fr
+2025-06-20 19:53:42.733844,whatsapp:+212633420644,Je veux une pizama.,❌ Je n'ai pas compris votre demande. Pouvez-vous reformuler ?,unrecognized,fr
+2025-06-20 20:02:56.626029,whatsapp:+212633420644,Je veux pyjamas.,❓ Est-ce que vous cherchez *pyjama bleu* ?,suggest_close,fr
+2025-06-20 20:24:23.796357,whatsapp:+212633420644,[audio],<bound method Message.body of <twilio.twiml.messaging_response.Message object at 0x000001F532FBCA60>>,error_transcription,unknown
+2025-06-21 00:53:08.126072,whatsapp:+212633420644,"Bridge, pyjama.",👋 Bonjour ! Que puis-je faire pour vous ?,salutation,fr|ml
+2025-06-21 00:58:08.311264,whatsapp:+212633420644,Pynjama,👋 السلام! كيفاش نعاونك؟,salutation,darija|ml
+2025-06-21 01:14:45.641659,whatsapp:+212633420644,Salaam alaikum,👋 Bonjour ! Que puis-je faire pour vous ?,salutation,fr|ml
+2025-06-21 01:17:32.597866,whatsapp:+212633420644,Salut !,👋 Bonjour ! Que puis-je faire pour vous ?,salutation,fr|ml
+2025-06-21 02:05:33.707395,whatsapp:+212633420644,"Pigeon, je veux une pigeon.",❌ Je n'ai pas compris votre demande. Pouvez-vous reformuler ?,unrecognized,fr
+2025-06-21 02:06:56.345331,whatsapp:+212633420644,Pyjama,"✅ Oui, nous avons pyjama bleu. Tailles : S,M,L (Stock: images/pyjama1.jpg)",product_found,fr
+2025-06-21 02:08:00.827773,whatsapp:+212633420644,Pyjama,🧮 شحال من وحدة؟,waiting_quantite,darija
+2025-06-21 02:13:36.953678,whatsapp:+212633420644,euh escutamed,❌ Merci de donner un nombre valide.,invalid_quantity,fr
+2025-06-21 02:19:44.081656,whatsapp:+212633420644,Pyjama.,👋 Bonjour ! Que puis-je faire pour vous ?,salutation,fr|trained
+2025-06-21 03:52:42.623307,whatsapp:+212633420644,Bonjour.,👋 Bonjour ! Que puis-je faire pour vous ?,salutation,fr|trained
+2025-06-21 03:54:26.677893,whatsapp:+212633420644,P' overlap,👋 Bonjour ! Que puis-je faire pour vous ?,salutation,fr|trained
+2025-06-21 03:55:13.445590,whatsapp:+212633420644,Je veux pyjama.,❓ Est-ce que vous cherchez *pyjama bleu* ?,suggest_close,fr
+2025-06-21 03:55:22.086952,whatsapp:+212633420644,Oui,❌ Je n'ai pas compris votre demande. Pouvez-vous reformuler ?,unrecognized,fr|trained
+2025-06-21 03:55:38.193429,whatsapp:+212633420644,Oui je veux pyjama,❓ Est-ce que vous cherchez *pyjama bleu* ?,suggest_close,fr
+2025-06-21 03:55:48.368842,whatsapp:+212633420644,Oui,❌ Je n'ai pas compris votre demande. Pouvez-vous reformuler ?,unrecognized,fr|trained
+2025-06-21 03:56:22.457622,whatsapp:+212633420644,"Britches, pyjamas.",👋 Bonjour ! Que puis-je faire pour vous ?,salutation,fr|trained
+2025-06-21 04:00:11.251437,whatsapp:+212633420644,"Salam, Briche-Pijama.",👋 Bonjour ! Que puis-je faire pour vous ?,salutation,fr|trained
+2025-06-21 04:00:39.739942,whatsapp:+212633420644,Brise pisaillement.,👋 Bonjour ! Que puis-je faire pour vous ?,salutation,fr|trained
+2025-06-21 04:02:51.432869,whatsapp:+212633420644,"Salam, ma femme Briche Pyjama.",👋 Bonjour ! Que puis-je faire pour vous ?,salutation,fr|trained
+2025-06-21 04:03:16.391135,whatsapp:+212633420644,Je veux du pyjama.,❓ Est-ce que vous cherchez *pyjama bleu* ?,suggest_close,fr
+2025-06-21 04:03:23.115012,whatsapp:+212633420644,Oui,❌ Je n'ai pas compris votre demande. Pouvez-vous reformuler ?,unrecognized,fr|trained
+2025-06-21 04:03:34.434025,whatsapp:+212633420644,Je veux pyjama,❓ واش كتقلب على *pyjama bleu* ؟,suggest_close,darija
+2025-06-21 04:03:45.557400,whatsapp:+212633420644,نعم,👋 السلام! كيفاش نعاونك؟,salutation,darija|trained
+2025-06-21 04:06:36.684280,whatsapp:+212633420644,Salaam,👋 Bonjour ! Que puis-je faire pour vous ?,salutation,fr|trained
+2025-06-21 04:07:39.706442,whatsapp:+212633420644,Briche casque.,👋 Bonjour ! Que puis-je faire pour vous ?,salutation,fr|trained
+2025-06-21 04:07:58.473579,whatsapp:+212633420644,السلام,👋 السلام! كيفاش نعاونك؟,salutation,darija|trained
+2025-06-21 04:08:09.568558,whatsapp:+212633420644,بغيت بيجاما,👋 السلام! كيفاش نعاونك؟,salutation,darija|trained
+2025-06-21 04:22:53.033872,whatsapp:+212633420644,Cela m'a fait que je brise le pyjama.,👋 Bonjour ! Que puis-je faire pour vous ?,salutation,fr|trained
+2025-06-21 04:29:06.173416,whatsapp:+212633420644,A fait que vous êtes bigeonnen요,👋 Bonjour ! Que puis-je faire pour vous ?,salutation,fr|trained
+2025-06-21 04:40:00.567167,whatsapp:+212633420644,Ok je orange mon müsse-flics,👋 Bonjour ! Que puis-je faire pour vous ?,salutation,fr|trained
+2025-06-22 20:32:58.405872,whatsapp:+212633420644,bonjour qu est ce qu il y a dans votre pyjama bleu,"✅ Oui, nous avons pyjama bleu. Tailles : S,M,L (Stock: images/pyjama1.jpg)",auto_match_product,fr
+2025-06-22 20:35:16.398037,whatsapp:+212633420644,bonjour je veux pyjama bleu,"✅ كاين pyjama bleu. التاي : S,M,L (بقا images/pyjama1.jpg)",auto_detect_product,darija
+2025-06-22 20:42:12.592446,whatsapp:+212633420644,je veux pyjama bleu,"✅ كاين pyjama bleu. التاي : S,M,L (بقا images/pyjama1.jpg)",auto_detect_product,darija
+2025-06-22 20:42:39.727762,whatsapp:+212633420644,je veux ta compte netflix,🧠 Intention détectée mais aucune réponse définie.,suggest_close,darija
+2025-06-22 20:48:55.869767,whatsapp:+212633420644,vous n avez pas de pyjama bleu,"✅ Oui, nous avons pyjama bleu. Tailles : S,M,L (Stock: images/pyjama1.jpg)",auto_match_product,fr
+2025-06-23 18:02:31.024589,whatsapp:+212633420644,bonjour je cherche une pyjama bleu,"✅ Oui, nous avons pyjama bleu. Tailles : S,M,L (Stock: images/pyjama1.jpg)",auto_match_product,fr
+2025-06-23 18:04:12.656650,whatsapp:+212633420644,je veux pyjama bleu,"✅ كاين pyjama bleu. التاي : S,M,L (بقا images/pyjama1.jpg)",auto_detect_product,darija
+2025-06-23 18:07:31.967130,whatsapp:+212633420644,je veux 2 taille m,🧠 Intention détectée mais aucune réponse définie.,suggest_close,darija
+2025-06-23 18:07:48.914733,whatsapp:+212633420644,taille m,🧠 Intention détectée mais aucune réponse définie.,waiting_quantite,darija
+2025-06-23 18:07:58.536843,whatsapp:+212633420644,je veux pyjama bleu,"✅ كاين pyjama bleu. التاي : S,M,L (بقا images/pyjama1.jpg)",auto_detect_product,darija
+2025-06-23 18:08:05.652430,whatsapp:+212633420644,taille m,🧠 Intention détectée mais aucune réponse définie.,waiting_quantite,darija
+2025-06-23 21:22:25.519630,whatsapp:+212633420644,taille m,🧠 Intention détectée mais aucune réponse définie.,waiting_quantite,darija
+2025-06-23 21:22:34.020400,whatsapp:+212633420644,taille taille m,🧠 Intention détectée mais aucune réponse définie.,waiting_quantite,darija
+2025-06-23 21:22:46.057705,whatsapp:+212633420644,je veux alqlawi taille taille m,🧠 Intention détectée mais aucune réponse définie.,suggest_close,darija
+2025-06-23 21:22:53.481858,whatsapp:+212633420644,bonjour,🧠 Intention détectée mais aucune réponse définie.,no_product,darija
+2025-06-23 21:23:12.312499,whatsapp:+212633420644,bonjour,🧠 Intention détectée mais aucune réponse définie.,no_product,darija
+2025-06-23 21:23:17.721467,whatsapp:+212633420644,bonjour,🧠 Intention détectée mais aucune réponse définie.,no_product,darija
+2025-06-23 21:49:36.816526,whatsapp:+212633420644,bonjour,🧠 Intention détectée mais aucune réponse définie.,no_product,darija
+2025-06-23 21:49:54.934579,whatsapp:+212633420644,pourquoi,🧠 Intention détectée mais aucune réponse définie.,waiting_quantite,fr
+2025-06-23 21:49:59.552428,whatsapp:+212633420644,elach,🧠 Intention détectée mais aucune réponse définie.,waiting_quantite,darija
+2025-06-23 21:50:10.601262,whatsapp:+212633420644,pyjama,🧠 Intention détectée mais aucune réponse définie.,product_found,darija
+2025-06-23 21:50:54.933587,whatsapp:+212633420644,pyjama,🧠 Intention détectée mais aucune réponse définie.,product_found,darija
+2025-06-25 05:03:30.084123,whatsapp:+212633420644,bonjour,❌ ma l9it walou b had smiya.,no_product,darija
+2025-06-25 05:03:39.733281,whatsapp:+212633420644,bonjour,❌ ma l9it walou b had smiya.,no_product,darija
+2025-06-25 05:03:48.213053,whatsapp:+212633420644,"salam, qu'est-ce qu'il y a ?",Combien d’unités voulez-vous ?,waiting_quantite,fr
+2025-06-25 05:12:52.653700,whatsapp:+212633420644,bonjour,❌ ma l9it walou b had smiya.,no_product,darija
+2025-06-25 05:17:52.289280,whatsapp:+212633420644,bonjour,"Smah lia, mafhemtch. te9dar 3awd sou2al dyalek 3afak.",multi_intent,darija
+2025-06-25 05:18:02.712148,whatsapp:+212633420644,bonjour,"Smah lia, mafhemtch. te9dar 3awd sou2al dyalek 3afak.",multi_intent,darija
+2025-06-25 05:18:46.157000,whatsapp:+212633420644,"ah fuck, prises pyjamas.",Combien d’unités voulez-vous ?,multi_intent,fr
+2025-06-25 07:02:14.038603,whatsapp:+212633420644,bonjour,❌ ma l9it walou b had smiya.,multi_intent,darija
+2025-06-25 07:02:25.783579,whatsapp:+212633420644,closez les yeuxitaly,sh7al mn wa7ed bghiti ?,multi_intent,darija
+2025-06-25 07:21:43.800183,whatsapp:+212633420644,bonjour bréjouz pijamèdj,❌ ma l9it walou b had smiya.,multi_intent,darija
+2025-06-25 07:24:56.579851,whatsapp:+212633420644,bonjour,❌ ma l9it walou b had smiya.,multi_intent,darija
+2025-06-25 07:30:46.496461,whatsapp:+212633420644,bonjour bridge pyjama bleu,❓ Je n'ai pas de réponse pour cette intention.,multi_intent,darija
+2025-06-25 08:24:02.632801,whatsapp:+212633420644,"salam, ma fachroué bruit de pyjama.","Combien d’unités voulez-vous ?
+Désolé, je ne suis pas sûr de ce que vous voulez dire.",multi_intent,fr
+2025-06-25 16:22:29.752444,whatsapp:+212633420644,avec la bruit de sa pyjama bleu,Mafhemtch mezian chno bghiti t9oul.,multi_intent,darija
+2025-06-25 16:30:55.073200,whatsapp:+212633420644,bonjour afak je veux pyjama bleu,Katqssed: {produit} ?,multi_intent,darija
+2025-06-25 17:01:27.210105,whatsapp:+212633420644,bark,sh7al mn wa7ed bghiti ?,multi_intent,darija
+2025-06-25 17:01:45.354268,whatsapp:+212633420644,bonjour,❌ ma l9it walou b had smiya.,multi_intent,darija
+2025-06-25 17:02:08.010285,whatsapp:+212633420644,bonjour avec je veux pyjama bleu,Katqssed: {produit} ?,multi_intent,darija
+2025-06-25 17:03:43.766489,whatsapp:+212633420644,ah,sh7al mn wa7ed bghiti ?,multi_intent,darija
+2025-06-25 17:03:49.813058,whatsapp:+212633420644,2,sh7al mn wa7ed bghiti ?,multi_intent,darija
+2025-06-25 17:03:57.557209,whatsapp:+212633420644,jouj,sh7al mn wa7ed bghiti ?,multi_intent,darija
+2025-06-25 17:04:04.314384,whatsapp:+212633420644,1,sh7al mn wa7ed bghiti ?,multi_intent,darija
+2025-06-25 17:32:46.972413,whatsapp:+212633420644,"tu es à l'église de la hocheuf à paris, maharajah.","Combien d’unités voulez-vous ?
+Je suis désolé, je n'ai pas compris. Pouvez-vous reformuler ?
+🤖 J’ai fait de mon mieux pour comprendre votre demande.",multi_intent,fr
+2025-06-25 17:41:52.868965,whatsapp:+212633420644,bonjour afak bridge pyjama bleu,Salam! kifach n9dar n3awnak?,multi_intent,darija
+2025-06-25 17:53:41.464902,whatsapp:+212633420644,bonjour afak pyjama bleu,Mafhemtch mezian chno bghiti t9oul.,multi_intent,darija
+2025-06-25 18:05:15.985031,whatsapp:+212633420644,"ça m'a maf, avec le bruit du pyjama.","Combien d’unités voulez-vous ? • Désolé, je ne suis pas sûr de ce que vous voulez dire.",multi_intent,fr
+2025-06-25 18:22:21.246596,whatsapp:+212633420644,bonjour afaq je veux prevail,Katqssed: {produit} ?,multi_intent,darija
+2025-06-25 18:42:06.792041,whatsapp:+212633420644,"salam, à faire que brille tes pyjamas.","Combien d’unités voulez-vous ? • Je suis désolé, je n'ai pas compris. Pouvez-vous reformuler ? • 🤖 J’ai fait de mon mieux pour comprendre votre demande.",multi_intent,fr
+2025-06-25 18:43:33.885966,whatsapp:+212633420644,je veux pyjama bleu,Katqssed: {produit} ?,multi_intent,darija
+2025-06-25 18:43:40.455447,whatsapp:+212633420644,oui,Combien d’unités voulez-vous ?,multi_intent,fr
+2025-06-25 18:43:46.867696,whatsapp:+212633420644,2,sh7al mn wa7ed bghiti ?,multi_intent,darija
+2025-06-25 18:43:56.334030,whatsapp:+212633420644,joujat,sh7al mn wa7ed bghiti ?,multi_intent,darija
+2025-06-25 18:46:49.120154,whatsapp:+212633420644,bonjour bonjour alaikum,❌ ma l9it walou b had smiya.,multi_intent,darija
+2025-06-26 14:56:48.155838,whatsapp:+212633420644,bonjour,❌ ma l9it walou b had smiya.,multi_intent,darija
+2025-06-26 14:56:57.269176,whatsapp:+212633420644,kayna pyjama bleu,Mafhemtch mezian chno bghiti t9oul.,multi_intent,darija
+2025-06-26 14:57:13.266224,whatsapp:+212633420644,afak je veux pyjama bleu,Katqssed: {produit} ?,multi_intent,darija
+2025-06-26 14:57:20.400481,whatsapp:+212633420644,oui,Combien d’unités voulez-vous ?,multi_intent,fr
+2025-06-26 14:57:29.100673,whatsapp:+212633420644,3,sh7al mn wa7ed bghiti ?,multi_intent,darija
+2025-06-26 14:58:21.273265,whatsapp:+212633420644,بريد 3 سعفاك,sh7al mn wa7ed bghiti ?,multi_intent,darija
+2025-06-26 21:22:33.176801,whatsapp:+212633420644,bonjour,❌ ma l9it walou b had smiya.,multi_intent,darija
+2025-06-26 21:23:15.955921,whatsapp:+212633420644,khouya kayn netflix,sh7al mn wa7ed bghiti ?,multi_intent,darija
+2025-06-26 21:26:05.201195,whatsapp:+212633420644,salut dealing à rodriguez.,Combien d’unités voulez-vous ?,multi_intent,fr

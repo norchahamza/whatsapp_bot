@@ -1,0 +1,13 @@
+# Ignorer l’environnement virtuel
+whatsapp_bot_env/
+
+# Fichiers sensibles
+.env
+
+# Cache Python
+__pycache__/
+*.pyc
+*.pyo
+
+# Config éditeur
+.vscode/

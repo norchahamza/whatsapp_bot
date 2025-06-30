@@ -1,0 +1,12 @@
+confirmation
+error_transcription
+invalid_quantity
+no_product
+product_found
+salutation
+suggest_close
+suggestion
+suggestion_or_none
+unrecognized
+waiting_nom
+waiting_quantite
