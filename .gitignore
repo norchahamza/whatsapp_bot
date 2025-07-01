@@ -1,5 +1,5 @@
 # Ignorer l’environnement virtuel
-whatsapp_bot_env/
+env/
 
 # Fichiers sensibles
 .env
