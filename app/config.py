@@ -1,4 +1,4 @@
-"""Configuration principale de l'application WhatsApp Bot."""
+# app/config.py
 
 import os
 from dotenv import load_dotenv
@@ -22,7 +22,8 @@ class Config:
     CONFIG_DIR = os.path.dirname(os.path.abspath(__file__))
 
     # === Fichiers spécifiques ===
-    RESPONSES_FILE = os.path.join(ROOT_DIR, "whatsapp_bot", ".vscode", "response.json")
+    # Ancienne ligne: RESPONSES_FILE = os.path.join(ROOT_DIR, "whatsapp_bot", ".vscode", "response.json")
+    RESPONSES_FILE = os.path.join(DATA_DIR, "responses.json") # Nouvelle ligne
     DB_FILE = os.path.join(DB_DIR, "products.db")
     CONVERSATION_LOG = os.path.join(DATA_DIR, "conversation_logs.json")
     AUDIO_LOG = os.path.join(DATA_DIR, "audio_errors.csv")
