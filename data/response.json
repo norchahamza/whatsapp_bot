@@ -1,0 +1,254 @@
+{
+  "\\\\.vscode\\response.json": {
+    "content": {
+      "fr": "Bonjour ! Comment puis-je vous aider ?",
+      "en": "Hello! How can I help you?",
+      "ar": "سلام! كيف يمكنني مساعدتك؟",
+      "darija": "Salam! kifach n9dar n3awnak?"
+    }
+  },
+  "greeting": {
+    "fr": "Bonjour ! Comment puis-je vous aider ?",
+    "en": "Hello! How can I help you?",
+    "ar": "سلام! كيف يمكنني مساعدتك؟",
+    "darija": "Salam! kifach n9dar n3awnak?"
+  },
+  "thanks": {
+    "fr": "Avec plaisir !",
+    "en": "You're welcome!",
+    "ar": "على الرحب والسعة!",
+    "darija": "mrahba !"
+  },
+  "confirmation": {
+    "fr": "Parfait, je note ça.",
+    "en": "Perfect, noted.",
+    "ar": "ممتاز، تم التدوين.",
+    "darija": "mzyan, sjeelt hadchi."
+  },
+  "some_intent": {
+    "fr": "",
+    "darija": "",
+    "en": "",
+    "ar": ""
+  },
+  "cancel": {
+    "fr": "Votre commande a été annulée.",
+    "en": "Your order has been cancelled.",
+    "ar": "تم إلغاء طلبك.",
+    "darija": "Lcommande tlghat."
+  },
+  "return_product": {
+    "fr": "Pour retourner un produit, merci de nous envoyer une photo et la raison du retour.",
+    "en": "To return a product, please send us a photo and reason for return.",
+    "ar": "لإرجاع منتج، أرسل لنا صورة والسبب.",
+    "darija": "Bach trj3 chi 7aja, sift lina tswira o 3lach."
+  },
+  "order": {
+    "fr": "Souhaitez-vous commander ce produit ?",
+    "en": "Do you want to order this product?",
+    "ar": "هل تريد طلب هذا المنتج؟",
+    "darija": "Bghiti  had lproduit?"
+  },
+  "ask_products": {
+    "fr": "Voici nos produits disponibles :",
+    "en": "Here are our available products:",
+    "ar": "إليك المنتجات المتوفرة لدينا:",
+    "darija": "Hadouma lproduits li 3andna daba :"
+  },
+  "ask_size": {
+    "fr": "Quelles tailles cherchez-vous ?",
+    "en": "Which sizes are you looking for?",
+    "ar": "ماهي المقاسات التي تبحث عنها؟",
+    "darija": "Chno hiya l9iasse li katqlb 3lih ?"
+  },
+  "delivery": {
+    "fr": "Nous livrons partout au Maroc en 48h via Amana.",
+    "en": "We deliver across Morocco within 48h via Amana.",
+    "ar": "نقوم بالتوصيل في جميع أنحاء المغرب خلال 48 ساعة عبر أمانة.",
+    "darija": "Kansiftou f lmaghrib kaml f 48h tweslek."
+  },
+  "product_found": {
+    "fr": "✅ Ce produit est disponible. Taille : {taille}, Stock : {stock}",
+    "en": "✅ This product is available. Size: {taille}, Stock: {stock}",
+    "ar": "✅ هذا المنتج متوفر. المقاس: {taille}, الكمية: {stock}",
+    "darija": "✅ lproduit kayn. Tay: {taille}, Stock: {stock}"
+  },
+  "waiting_taille": {
+    "fr": "Quelle taille souhaitez-vous ?",
+    "en": "What size do you want?",
+    "ar": "ماهو المقاس الذي تريده؟",
+    "darija": "ina taille bghiti ?"
+  },
+  "waiting_quantite": {
+    "fr": "Combien d’unités voulez-vous ?",
+    "en": "How many units do you want?",
+    "ar": "كم عدد الوحدات التي تريدها؟",
+    "darija": "sh7al mn wa7ed bghiti ?"
+  },
+  "add_product": {
+    "fr": "Produit ajouté à votre panier.",
+    "en": "Product added to your cart.",
+    "ar": "تمت إضافة المنتج إلى سلتك.",
+    "darija": "Zedna lproduit f panier dyalek."
+  },
+  "add_multiple_products": {
+    "fr": "Les produits ont été ajoutés à votre commande.",
+    "en": "The products were added to your order.",
+    "ar": "تمت إضافة المنتجات إلى طلبك.",
+    "darija": "Zedna les produits l commande dyalek."
+  },
+  "suggest_close": {
+    "fr": "Vous vouliez dire : {produit} ?",
+    "en": "Did you mean: {product}?",
+    "ar": "هل كنت تقصد: {produit}؟",
+    "darija": "Katqssed: {produit} ?"
+  },
+  "no_product": {
+    "fr": "❌ Aucun produit trouvé avec ce nom.",
+    "en": "❌ No product found with this name.",
+    "ar": "❌ لم يتم العثور على هذا المنتج.",
+    "darija": "❌ ma l9it walou b had smiya."
+  },
+  "help": {
+    "fr": "Je peux vous aider à passer commande, voir les produits, ou poser une question.",
+    "en": "I can help you order, view products, or ask a question.",
+    "ar": "يمكنني مساعدتك في الطلب، عرض المنتجات، أو طرح سؤال.",
+    "darija": "N9dar n3awnak douez lcommande , tchouf produits, aw tsouelni."
+  },
+  "order_status": {
+    "fr": "Votre commande est en cours de traitement.",
+    "en": "Your order is being processed.",
+    "ar": "طلبك قيد المعالجة.",
+    "darija": "Lcommande dyalek katwjed ."
+  },
+  "confirmation_yes": {
+    "fr": "✅ Commande confirmée !",
+    "en": "✅ Order confirmed!",
+    "ar": "✅ تم تأكيد الطلب!",
+    "darija": "✅ lcommande dialek confirmée !"
+  },
+  "confirmation_no": {
+    "fr": "❌ D'accord, commande annulée.",
+    "en": "❌ Okay, order cancelled.",
+    "ar": "❌ حسناً، تم الإلغاء.",
+    "darija": "❌ Ok, tlghat lcommande."
+  },
+  "fallback": {
+    "fr": "Je suis désolé, je n'ai pas compris. Pouvez-vous reformuler ?",
+    "en": "Sorry, I didn't understand. Can you rephrase?",
+    "ar": "عذراً، لم أفهم. هل يمكنك إعادة الصياغة؟",
+    "darija": "Smah lia, mafhemtch. te9dar 3awd sou2al dyalek 3afak."
+  },
+  "suggestion_or_none": {
+    "fr": "Désolé, je ne suis pas sûr de ce que vous voulez dire.",
+    "darija": "Mafhemtch mezian chno bghiti t9oul."
+  },
+  "suggestion": {
+    "fr": "Voici quelques suggestions :",
+    "en": "Here are some suggestions:",
+    "ar": "إليك بعض الاقتراحات:",
+    "darija": "Hadchi li n9dar n3awnak bih :"
+  },
+  "ask_quantity": {
+    "fr": "Combien d'unités souhaitez-vous ?",
+    "en": "How many units do you want?",
+    "ar": "كم عدد الوحدات التي تريدها؟",
+    "darija": "Sh7al mn wa7ed bghiti ?"
+  },
+  "ask_payment": {
+    "fr": "Comment souhaitez-vous payer ?",
+    "en": "How do you want to pay?",
+    "ar": "كيف تريد الدفع؟",
+    "darija": "Kifach bghiti tdkhl lflous ?"
+  },
+  "ask_delivery": {
+    "fr": "Où souhaitez-vous que la livraison soit effectuée ?",
+    "en": "Where do you want the delivery to be made?",
+    "ar": "أين تريد أن تتم عملية التوصيل؟",
+    "darija": "Fin bghiti l9bel ?"
+  },
+  "ask_payment_method": {
+    "fr": "Quel mode de paiement préférez-vous ?",
+    "en": "What payment method do you prefer?",
+    "ar": "ما هي وسيلة الدفع المفضلة لديك؟",
+    "darija": "Chno hiya tari9a lkhlase li bghiti ?"
+  },
+  "request_product": {
+    "fr": "Quel produit cherchez-vous ?",
+    "darija": "Chno lproduit li katqlb 3lih ?",
+    "en": "Which product are you looking for?",
+    "ar": "ما هو المنتج الذي تبحث عنه؟"
+  },
+  "achat_produit": {
+    "fr": "Très bien, quelle taille souhaitez-vous ?",
+    "darija": "Mzyan, chno hiya taille ?",
+    "en": "Great, what size do you want?",
+    "ar": "جيد، ما المقاس الذي تريده؟"
+  },
+  "adresse_demande": {
+    "fr": "Pouvez-vous me donner votre adresse ?",
+    "darija": "3tini l3onwan 3afak.",
+    "en": "Can you give me your address?",
+    "ar": "هل يمكنك إعطائي عنوانك؟"
+  },
+  "couleur_demande": {
+    "fr": "Quelle couleur souhaitez-vous ?",
+    "darija": "Chno lown li bghiti ?",
+    "en": "Which color do you want?",
+    "ar": "ما اللون الذي تريده؟"
+  },
+  "error_transcription": {
+    "fr": "Désolé, je n’ai pas bien compris l’audio.",
+    "darija": "Smah lia, ma fhemtch mzyan l’audio.",
+    "en": "Sorry, I didn’t understand the audio.",
+    "ar": "عذراً، لم أفهم التسجيل الصوتي."
+  },
+  "invalid_quantity": {
+    "fr": "Merci de préciser une quantité valide.",
+    "darija": "3tini 3afak chi quantité sahha.",
+    "en": "Please specify a valid quantity.",
+    "ar": "يرجى تحديد كمية صحيحة."
+  },
+  "merci": {
+    "fr": "Avec plaisir ! 😊",
+    "darija": "Mrahba ! 😊",
+    "en": "You're welcome! 😊",
+    "ar": "على الرحب والسعة! 😊"
+  },
+  "prix_demande": {
+    "fr": "Le prix dépend du produit. Lequel vous intéresse ?",
+    "darija": "Taman kaytla3 3la lproduit. Chno bghiti ?",
+    "en": "The price depends on the product. Which one interests you?",
+    "ar": "السعر يعتمد على المنتج. أي واحد يهمك؟"
+  },
+  "refus": {
+    "fr": "D'accord, n'hésitez pas si vous avez besoin d'autre chose.",
+    "darija": "Ok, ila 7tajiti chi 7aja akhra ana hna.",
+    "en": "Alright, let me know if you need anything else.",
+    "ar": "حسناً، أخبرني إذا كنت تحتاج شيئاً آخر."
+  },
+  "salutation": {
+    "fr": "Bonjour ! Comment puis-je vous aider ?",
+    "darija": "Salam! kifach n9dar n3awnak?",
+    "en": "Hello! How can I help you?",
+    "ar": "سلام! كيف يمكنني مساعدتك؟"
+  },
+  "taille_demande": {
+    "fr": "Quelles tailles cherchez-vous ?",
+    "darija": "Chno hiya l9yass li katqlb 3lih ?",
+    "en": "What size are you looking for?",
+    "ar": "ما المقاس الذي تبحث عنه؟"
+  },
+  "unrecognized": {
+    "fr": "Je ne suis pas sûr de ce que vous voulez dire.",
+    "darija": "Mafhemtch chno bghiti t9oul.",
+    "en": "I'm not sure what you mean.",
+    "ar": "لست متأكدًا مما تعنيه."
+  },
+  "waiting_nom": {
+    "fr": "Pouvez-vous me donner votre nom ?",
+    "darija": "3tini smiytek 3afak.",
+    "en": "Can you tell me your name?",
+    "ar": "هل يمكنك أن تخبرني باسمك؟"
+  }
+}

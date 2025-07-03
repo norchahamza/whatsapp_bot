@@ -23,3 +23,5 @@ timestamp,user_id,transcribed_text,original_lang,corrected_lang,source
 2025-06-25 17:53:41.461909,whatsapp:+212633420644,"Salam Afak, British Pyjama, bleu.",fr,darija,audio
 2025-06-25 18:22:21.213077,whatsapp:+212633420644,Salaam afaq britch prevail,fr,darija,audio
 2025-06-25 18:46:49.112985,whatsapp:+212633420644,Salaam. Salaam alaikum.,fr,darija,audio
+2025-07-03 01:57:29.105745,whatsapp:+212633420644,Bonjour,fr,darija,audio
+2025-07-03 02:44:13.269429,whatsapp:+212633420644,Selam.,fr,darija,audio
