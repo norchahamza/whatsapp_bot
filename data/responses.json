@@ -1,0 +1,77 @@
+{
+  "achat_produit": {
+    "fr": "D'accord, quelle taille cherchez-vous ?",
+    "darija": "✅ كاين pyjama bleu. التاي : S,M,L (بقا 10)"
+  },
+  "adresse_demande": {
+    "fr": "عافاك قول ليا العنوان باش نوصلو ليك"
+  },
+  "confirmation": {
+    "fr": "Parfait, pouvez-vous me donner votre nom complet ?",
+    "darija": "❌ ما كاين حتى منتوج مطابق."
+  },
+  "couleur_demande": {
+    "darija": "🎨 اللون الأسود متوفر"
+  },
+  "error_transcription": {
+    "unknown": "<bound method Message.body of <twilio.twiml.messaging_response.Message object at 0x000001F532FBCA60>>"
+  },
+  "invalid_quantity": {
+    "fr": "❌ Merci de donner un nombre valide."
+  },
+  "merci": {
+    "fr": "Avec plaisir ! 😊",
+    "darija": "😊 مرحبا!"
+  },
+  "no_product": {
+    "fr": "❌ Aucun produit trouvé. Pouvez-vous préciser ?"
+  },
+  "prix_demande": {
+    "fr": "Nous avons d'autres modèles moins chers."
+  },
+  "product_found": {
+    "darija": "✅ كاين pyjama bleu. التاي : S,M,L"
+  },
+  "refus": {
+    "fr": "D'accord, n'hésitez pas si vous avez besoin d'autre chose."
+  },
+  "salutation": {
+    "fr": "Bonjour ! Comment puis-je vous aider ?",
+    "darija": "👋 السلام! كيفاش نعاونك؟",
+    "fr|ml": "👋 Bonjour ! Que puis-je faire pour vous ?"
+  },
+  "suggest_close": {
+    "darija": "❓ واش كتقلب على *pyjama bleu* ؟"
+  },
+  "suggestion": {
+    "fr": "❌ Non trouvé. On propose *pyjama bleu* (tailles: S,M,L)"
+  },
+  "suggestion_or_none": {
+    "unknown": "❌ Not found. Suggest *pyjama bleu* (sizes: S,M,L)"
+  },
+  "taille_demande": {
+    "darija": "🧮 شحال من وحدة؟"
+  },
+  "unrecognized": {
+    "fr|trained": "❌ Je n'ai pas compris votre demande. Pouvez-vous reformuler ?"
+  },
+  "waiting_nom": {
+    "fr": "📝 Votre nom ?"
+  },
+  "waiting_quantite": {
+    "fr": "🧮 Quelle quantité ?"
+  },
+  "greeting": {
+    "fr": "Bonjour ! Comment puis-je vous aider ?",
+    "darija": "👋 السلام! كيفاش نعاونك؟",
+    "fr|ml": "👋 Bonjour ! Que puis-je faire pour vous ?"
+  },
+  "thanks": {
+    "fr": "Avec plaisir ! 😊",
+    "darija": "😊 مرحبا!"
+  },
+  "request_product": {
+    "fr": "D'accord, quelle taille cherchez-vous ?",
+    "darija": "✅ كاين pyjama bleu. التاي : S,M,L (بقا 10)"
+  }
+}
